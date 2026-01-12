@@ -29,5 +29,5 @@ pip install -r requirements.txt
 
 # Start the backend server
 python app.py
-'''
+'''bash
 ### 2.Frontend Setup
