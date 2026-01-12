@@ -33,3 +33,21 @@ pip install -r requirements.txt
 
 # Run the application
 python app.py
+2. Frontend Setup
+Open a new terminal window in VS Code (Ctrl + ~).
+
+Run the following commands:
+
+Bash
+
+# Navigate to frontend folder
+cd front
+
+# Start the development server
+npm run dev
+🌐 Usage
+Once the backend is running, it will typically be available at http://127.0.0.1:5000.
+
+After running the frontend command, follow the local link provided in the terminal (usually http://localhost:5173 or http://localhost:3000) to view the app.
+
+Tip: Keep both terminal windows open while developing to see real-time updates and error logs.
