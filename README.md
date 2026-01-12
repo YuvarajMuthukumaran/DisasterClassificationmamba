@@ -33,11 +33,11 @@ pip install -r requirements.txt
 
 # Run the application
 python app.py
-2. Frontend Setup
+### 2. Front Setup
 Open a new terminal window in VS Code (Ctrl + ~).
 
 Run the following commands:
-
+ Open a new terminal (`Ctrl` + `~`).
 Bash
 
 # Navigate to frontend folder
