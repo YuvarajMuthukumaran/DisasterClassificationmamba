@@ -32,3 +32,14 @@ python app.py
 ```
 
 ### 2.Frontend Setup
+Open a second terminal window in VS Code (Ctrl + ~).
+
+Run the following commands:
+
+```bash
+
+# Move into the frontend directory
+cd front
+
+# Start the development server
+npm run dev
